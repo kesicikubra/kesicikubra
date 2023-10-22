@@ -3,7 +3,4 @@
 
 ### Hi there 👋
 🌱 I'm Kübra. 
-
-
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=kesicikubra&show_icons=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesicikubra&theme=tokyonight)
