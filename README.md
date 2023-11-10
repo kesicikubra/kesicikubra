@@ -4,4 +4,3 @@
 ### Hi there 👋 🌱 I'm Kübra. 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesicikubra&theme=tokyonight)
